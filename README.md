@@ -9,3 +9,13 @@
 <h4 align="center"> 
 	🚧🚀 Em construção...  🚧
 </h4>
+
+
+# Clone this repository
+$ git clone https://github.com/biamesquitap/Challenge-Ignite-Coffee.git
+# Access the project folder in your terminal
+$ cd ignite-coffee
+# Install the dependencies
+$ npm i
+# Run the application in development mode
+$ npm run dev
